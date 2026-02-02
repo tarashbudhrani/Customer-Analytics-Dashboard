@@ -29,6 +29,4 @@ This project focuses on building an end-to-end analytics dashboard for e-commerc
 1. Clone this repository:
    ```bash
    git clone https://github.com/tarashbudhrani/Customer-Analytics-Dashboard.git
-Run Python analysis:
-python script.py
-Open the dashboard file using Power BI Desktop.
+
